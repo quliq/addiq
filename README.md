@@ -1,0 +1,2 @@
+# admindig
+Codeigniter Admin Panel
